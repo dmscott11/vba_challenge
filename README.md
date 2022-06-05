@@ -13,9 +13,6 @@ The refactoring of the VBA was successful as it was able to cut down on the time
 Below you will images of the code both before and after refactoring with the first image depicting the before code and the second image depicting the after code. 
 ![](Resources/AFA_Original.png)
 ![](Resources/AFAR_Refactor.png)
-
-### Refactored Code
-![](Resources/ASA
 ## Summary
 ### Advantages and Disadvantages of Refactoring in General
 Refactoring is an important process to understanding when utilizing code that has been written by someone else. Oftentimes there are ways to make a code slightly more responsive and efficient and this is what refactoring is. As mentioned, an advantage of refactoring is that its purpose is to increase the efficiency of the code and allow it to operate optimally. A disadvantage of refactoring is that it requires a complete understanding of what was done in the original code and how that process can be altered. If you are knowledgeable in coding, refactoring should become a common practice. 
