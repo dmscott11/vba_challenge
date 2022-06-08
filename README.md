@@ -8,8 +8,9 @@ The refactoring of the VBA was successful as it was able to cut down on the time
 ### Results of Analysis After Refactoring
 ![](Resources/2018_ASAR.png) ![](Resources/2017_ASAR.png)
 ### Comparison of Code:Before and After Refactoring
-In an effort to avoid cluttering, the code is available to view within the file itself. Two macros we are comparing are the yearValueAnalysis and AllStocksAnalysisRefactored. The most significant changes to the code came in the middle lines with the establishment of arrays and the three variables tickerVolume, tickerStartingPrice, and tickerEnding Price. Additionally, the incorporation of tickerIndex into the formulas allowed for the code to run more efficiently by bypassing loops and producing the desired results quicker. 
-![](Resources/
+In an effort to avoid cluttering, I have only included the refactored code. The original code we began work on were mostly blank spaces from 1a) to 3d). Two macros we are comparing are the yearValueAnalysis and AllStocksAnalysisRefactored. The most significant changes to the code came in the middle lines with the establishment of arrays and the three variables tickerVolume, tickerStartingPrice, and tickerEnding Price. Additionally, the incorporation of tickerIndex into the formulas allowed for the code to run more efficiently by bypassing extra loops and producing the desired results quicker. 
+
+![](Resources/ASARefactor.png)
 ## Summary
 ### Advantages and Disadvantages of Refactoring in General
 Refactoring is an important process to understanding when utilizing code that has been written by someone else. Oftentimes there are ways to make a code slightly more responsive and efficient and this is what refactoring is. As mentioned, an advantage of refactoring is that its purpose is to increase the efficiency of the code and allow it to operate optimally. A disadvantage of refactoring is that it requires a complete understanding of what was done in the original code and how that process can be altered. If you are knowledgeable in coding, refactoring should become a common practice. 
